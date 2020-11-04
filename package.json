@@ -1,0 +1,13 @@
+{
+  "name": "sequelize-with-postgres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "orie chinedu",
+  "license": "MIT",
+  "scripts": {
+    "start-dev ": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
